@@ -1,0 +1,9 @@
+{
+  "forecast": [
+    {"period": "Overnight", "low_f": 53, "high_f": null, "wind": "6 mph WSW"},
+    {"period": "Monday", "low_f": null, "high_f": 70, "wind": "3-9 mph WSW"},
+    {"period": "Monday Night", "low_f": 53, "high_f": null, "wind": "2-9 mph WSW"},
+    {"period": "Tuesday", "low_f": null, "high_f": 75, "wind": "2-9 mph SW"},
+    {"period": "Tuesday Night", "low_f": 53, "high_f": null, "wind": "5-9 mph W"}
+  ]
+}
